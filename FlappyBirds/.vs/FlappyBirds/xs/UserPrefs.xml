@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{00463721-2BEE-65BD-D873-9DDA2F940470}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ColumnMaker.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerControll.cs" Line="34" Column="41" />
+      <File FileName="Assets/Scripts/GroundMove.cs" Line="31" Column="95" />
+      <File FileName="Assets/Scripts/ColumnMaker.cs" Line="39" Column="1" />
+      <File FileName="Assets/Scripts/ColumnMove.cs" Line="21" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="176ba693-d7fa-4c32-b702-cabdb1018e2a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
